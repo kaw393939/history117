@@ -8,7 +8,7 @@
 
 # Git Dance
 
-Steps:
+## Steps:
 
 1. Make a branch and switch to it
 2. Make a commit or more 
